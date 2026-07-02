@@ -5,7 +5,7 @@ valor = 0
 
 while True:
     print("-----------------");
-    print("       MENU");
+    print("       MENU      ");
     print("-----------------");
     print("seleccione opcion");
     print("1) Sumar");
